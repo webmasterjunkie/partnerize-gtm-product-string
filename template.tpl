@@ -18,7 +18,6 @@ ___INFO___
     "TAG_MANAGEMENT"
   ],
   "displayName": "Partnerize Item String",
-  "__wm": "VGVtcGxhdGUtQXV0aG9yX1N0cmluZy1mcm9tLWFycmF5LW9mLW9iamVjdHMtU2ltby1BaGF2YQ==",
   "description": "Create a formatted string of product details. This will conform values to the required Partnerize item level format.",
   "containerContexts": [
     "WEB"
