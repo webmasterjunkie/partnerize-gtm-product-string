@@ -1,2 +1,2 @@
-# partnerize-gtm-product-string
-This template variable will take an array of product details and convert them to the required Partnerize item level string for placing in a custom HTML tag.
+# Partnerize GTM Product String
+If your GTM setup uses a custom dataLayer structure and a custom HTML image for tracking, this variable will allow you to convert your products into the required format for Partnerize tracking.
