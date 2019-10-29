@@ -2,5 +2,8 @@ homepage: "https://partnerize.com/en"
 documentation: "https://github.com/webmasterjunkie/partnerize-gtm-product-string/blob/master/README.md"
 versions:
   # Latest version
+  - sha: b50ae88607bbf587226b361924a04f57fc3d4b2e
+    changeNotes: Remove errored tag.
+  # Older versions
   - sha: e7e1d15153ef0954959bab61b8401f922cd44651
     changeNotes: Initial Release.
