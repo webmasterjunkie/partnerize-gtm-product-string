@@ -10,3 +10,5 @@ This custom variable will take the incoming array, and convert it to the formatt
 ```
 [/category:Big%20Shoes/value:32.99][/category:Big%20Hats/value:12.99]
 ```
+## Screenshot
+![](https://github.com/webmasterjunkie/partnerize-gtm-product-string/blob/master/assets/screenshot.png)
