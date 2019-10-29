@@ -23,7 +23,7 @@ ___INFO___
     "WEB"
   ],
   "brand": {
-    "displayName": "Partnerize",
+    "displayName": "webmasterjunkie",
     "id": "github.com_webmasterjunkie"
   }
 }
@@ -43,7 +43,13 @@ ___TEMPLATE_PARAMETERS___
     "displayName": "Product Array Variable",
     "macrosInSelect": true,
     "selectItems": [],
-    "simpleValueType": true
+    "simpleValueType": true,
+    "alwaysInSummary": true,
+    "valueValidators": [
+      {
+        "type": "NON_EMPTY"
+      }
+    ]
   },
   {
     "type": "LABEL",
